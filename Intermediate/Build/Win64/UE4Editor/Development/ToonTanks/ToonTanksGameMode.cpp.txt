@@ -1,0 +1,24 @@
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Source\ToonTanks\ToonTanksGameMode.h
+D:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\ToonTanksGameMode.generated.h
+D:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\Program Files\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\Program Files\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\Program Files\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Source\ToonTanks\Tank.h
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Source\ToonTanks\BasePawn.h
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\BasePawn.generated.h
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\Tank.generated.h
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Source\ToonTanks\Tower.h
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\Tower.generated.h
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Source\ToonTanks\ToonTanksPlayerController.h
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\ToonTanksPlayerController.generated.h

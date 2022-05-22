@@ -1,0 +1,5 @@
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+D:\Program Files\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Source\ToonTanks/Projectile.h
+D:\Codigos\unreal\ToonTanksProjectSetup_4.25\ToonTanksProjectSetup_4.25\ToonTanks\Intermediate\Build\Win64\UE4Editor\Inc\ToonTanks\Projectile.generated.h
